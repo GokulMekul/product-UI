@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+#logo{
+    width: 40px;
+    border-radius: 50px;
+}
+.navbar{
+    background-color: #ffffff;
+    height: 50px;
+    
+   
+}
+.d-flex{
+    margin-top: 15px;
+}
+.nav-item{
+    padding-left: 18px;
+    
+}
+.nav-link{
+    color: black;
+}
+
+
+
+
+#home{
+ 
+}
+
